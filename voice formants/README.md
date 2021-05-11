@@ -1,4 +1,4 @@
-# Functions for modeling the specrum of transitions between voice vowels formants
+# Functions for modeling the spectrum of transitions between voice vowels formants
 
 run:
 
